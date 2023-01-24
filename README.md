@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Russy-Veemon/Russy-Veemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a self-taught Software Engineer who fell in love with coding! I enjoy learning new technologies. I came from a non-traditional background. I studied Kinesiology at CSUN, and worked in the healthcare industry as a Physical Therapist Aide, then licensed PTA for a decade, helping a varied population of people reach their health and wellness goals. I have experience in business and customer service. 
