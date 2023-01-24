@@ -14,4 +14,4 @@ BACK END: Django, Flask, OOP
 DATABASES: SQL (MySQL, SQLite)
 
 Curious about my projects? Visit my website!
-GitHub: https://github.com/Russy-Veemon
+Look at some of the ones pinned below!
