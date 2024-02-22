@@ -6,6 +6,9 @@ I have always had an interest in computer science growing up as an avid gamer. M
 
 After struggling on my own for 6 months, I decided to join Coding Dojo bootcamp to gain the opportunity to work on dev teams, collaborate with others, to help other students, and ultimately gain structure to my learning. I learned 1 full stack within 3 months (Python) and built many projects using different technologies.
 
+To further my knowledge and specialize more in the tech world, I have decided to use the Python knowledge and skill set I developed at Coding Dojo and expand into Cybersecurity.
+I am currently finishing up the Google Cybersecurity Professionals course on Coursera, and plan to be posting more of my projects here on my github as well as linking a lot of my portfolio work here as well.
+
 SKILL SETS
 
 LANGUAGES: JavaScript(ES6), Python, CSS, HTML
